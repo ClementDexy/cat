@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  regno: 1
+  not: MyString
+  'null': MyString
+  name: MyString
+  not: MyString
+  'null': MyString
+  telephone: MyString
+  not: MyString
+  'null': MyString
+  address: MyText
+  not: MyString
+  'null': MyString
+
+two:
+  regno: 1
+  not: MyString
+  'null': MyString
+  name: MyString
+  not: MyString
+  'null': MyString
+  telephone: MyString
+  not: MyString
+  'null': MyString
+  address: MyText
+  not: MyString
+  'null': MyString

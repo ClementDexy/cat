@@ -1,0 +1,2 @@
+class StudentTable < ApplicationRecord
+end
